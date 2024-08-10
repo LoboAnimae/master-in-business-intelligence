@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/LoboAnimae/master-in-business-intelligence-backend.git
+[submodule "modelos_PI"]
+	path = modelos_PI
+	url = https://github.com/ricardoVA999/modelos_PI
